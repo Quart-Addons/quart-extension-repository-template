@@ -1,4 +1,4 @@
-# Quart Extension Development Container
+# Quart Extension Repository Template
 This repoistory is used as a template to build new Quart extensions
 using VS Code, Dev Containers, and Poetry. 
 
