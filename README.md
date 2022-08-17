@@ -10,4 +10,6 @@ directory.
 
 When first creating your project. Run `poetry init` to create your 
 pyproject.toml file. Then rebuild the development container to install 
-your required dependicies for your project. 
+your required dependicies for your project.
+
+It also has some common used directories and files as templates for the new extension. 
